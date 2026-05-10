@@ -1,0 +1,8 @@
+# resultados y exe
+rtree_euro_nx.bin
+rtree_euro_str.bin
+rtree_rand_nx.bin
+rtree_rand_str.bin
+experimento_rtree
+**/.DS_Store
+*.bin
