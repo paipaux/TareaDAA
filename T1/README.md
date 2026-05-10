@@ -1,3 +1,7 @@
+
+
+#DEESCARGAR LOS ARCHIVOS BIN APARTE Y METERLOS DENTRO DE /datasets
+
 # Tarea 1: Bulk-loading de R-trees
 
 ## Estructura del Proyecto
